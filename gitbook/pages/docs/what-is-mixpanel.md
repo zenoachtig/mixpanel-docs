@@ -1,6 +1,6 @@
 # What is Mixpanel?
 
-Mixpanel is really great, and will help you better understand your customers and answer questions about your product.
+Mixpanel is really great and will help you better understand your customers and answer questions about your product.
 It enables you to track how users engage with your product and analyze this data with interactive reports
 that let you query and visualize the results with just a few clicks.
 
