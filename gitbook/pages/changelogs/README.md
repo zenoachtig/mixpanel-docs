@@ -1,6 +1,11 @@
 # Changelog
 
 {% updates format="full" %}
+{% update date="2026-04-11" %}
+## Testing GitHub initiated update
+
+This post is made from GitHub
+{% endupdate %}
 {% update date="2026-04-07" %}
 ## Testing UI initiated updated
 
